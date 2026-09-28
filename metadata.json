@@ -1,0 +1,7 @@
+{
+  "name": "The Smart Innovation",
+  "description": "Bilingual enterprise infrastructure, security and AI website.",
+  "version": "1.0.0",
+  "baselineCommit": "4ffd70cfdbad065410738d0c12c15231ba4ae428",
+  "inquiryModeDefault": "manual-handoff"
+}

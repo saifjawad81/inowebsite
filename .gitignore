@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+coverage/
+test-results/
+playwright-report/
+__pycache__/
+
+.artifacts/
+__pycache__/
